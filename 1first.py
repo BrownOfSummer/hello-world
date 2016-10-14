@@ -5,3 +5,4 @@ print '100 + 200 =',100 + 200
 #name=''
 name = raw_input('input something:')
 print 'hello',name
+#add for diff
