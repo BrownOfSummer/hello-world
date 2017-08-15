@@ -1,4 +1,0 @@
-1first.py
-README.md
-
-test:

@@ -1,4 +1,2 @@
-# hello-world
-Just a test of New Reposity
-Just add something to commit
-Just write something for delete
+# Sample for keras
+Just for first commit !
